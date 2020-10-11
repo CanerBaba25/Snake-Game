@@ -1,5 +1,5 @@
 /***********************************************************************************************
-Name: Long Nguyen, Caner Pamukcupasagil, Noah Weekes
+Name: CanerBaba25
 Date: April 24. , 2019
 File name: Array game
 Description: There are 6 levels that user need to pass.
